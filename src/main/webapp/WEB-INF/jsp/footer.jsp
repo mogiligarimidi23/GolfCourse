@@ -27,7 +27,7 @@
 		</address>
 
 		<address>
-			Copyright © 2012 HackDay India Pvt. Ltd. All rights reserved.
+			Copyright © 2012 Progress Software India Pvt. Ltd. All rights reserved.
 		</address>
 
 	</div>
